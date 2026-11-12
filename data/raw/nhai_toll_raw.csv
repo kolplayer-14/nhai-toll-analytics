@@ -1,0 +1,307 @@
+Toll Plaza Name,State,NH Number,Stretch Length (km),Lanes,Year Commissioned,Fee Car,Fee LCV,Fee Bus/Truck
+Plaza 001,Andhra Pradesh,NH-48,199.2,4,2022,Rs. 113,Rs. 180,Rs. 361
+Plaza 002,Rajasthan,NH-19,50.9,2,2020,Rs. 67,Rs. 107,Rs. 214
+Plaza 003,Punjab,NH-19,143.3,4,2009,Rs. 112,Rs. 179,Rs. 358
+Plaza 004,Madhya Pradesh,NH-44,138.3,2,2021,Rs. 103,Rs. 164,Rs. 329
+Plaza 005,Maharashtra,NH-48,217.2,4,2006,Rs. 151,Rs. 241,Rs. 483
+Plaza 006,Bihar,NH-48,126.4,4,2010,Rs. 100,Rs. 160,Rs. 320
+Plaza 007,Andhra Pradesh,NH-48,108.6,6,2019,Rs. 95,Rs. 152,Rs. 304
+Plaza 008,Andhra Pradesh,NH-19,167.1,2,2011,Rs. 84,Rs. 134,Rs. 268
+Plaza 009,Uttar Pradesh,NH-48,81.3,4,2019,Rs. 79,Rs. 126,Rs. 252
+Plaza 010,Rajasthan,NH-58,52.1,4,2022,Rs. 62,Rs. 99,Rs. 198
+Plaza 011,Rajasthan,NH-44,129.9,6,2006,Rs. 93,Rs. 148,Rs. 297
+Plaza 012,Odisha,NH-16,115.9,4,2005,Rs. 91,Rs. 145,Rs. 291
+Plaza 013,Madhya Pradesh,NH-16,73.5,4,2023,Rs. 81,Rs. 129,Rs. 259
+Plaza 014,Haryana,NH-19,104.5,4,2015,Rs. 97,Rs. 155,Rs. 310
+Plaza 015,Rajasthan,NH-58,104.3,4,2015,Rs. 75,Rs. 120,Rs. 240
+Plaza 016,Uttar Pradesh,NH-48,95.3,6,2014,Rs. 85,Rs. 136,Rs. 272
+Plaza 017,Tamil Nadu,NH-44,107.3,4,2013,Rs. 91,Rs. 145,Rs. 291
+Plaza 018,Maharashtra,NH-44,177.7,4,2018,Rs. 99,Rs. 158,Rs. 316
+Plaza 019,Haryana,NH-48,88.3,2,2016,Rs. 66,Rs. 105,Rs. 211
+Plaza 020,Madhya Pradesh,NH-27,238.2,4,2008,Rs. 96,Rs. 153,Rs. 307
+Plaza 021,Andhra Pradesh,NH-27,230.8,6,2017,Rs. 145,Rs. 232,Rs. 464
+Plaza 022,Gujarat,NH-52,130.6,4,2018,Rs. 90,Rs. 144,Rs. 288
+Plaza 023,Bihar,NH-27,95.5,4,2007,Rs. 92,Rs. 147,Rs. 294
+Plaza 024,West Bengal,NH-58,143.2,6,2012,Rs. 94,Rs. 150,Rs. 300
+Plaza 025,Andhra Pradesh,NH-52,215.2,6,2020,Rs. 151,Rs. 241,Rs. 483
+Plaza 026,Uttar Pradesh,NH-58,170.1,4,2017,Rs. 100,Rs. 160,Rs. 320
+Plaza 027,Rajasthan,NH-48,205.0,4,2007,Rs. 135,Rs. 216,Rs. 432
+Plaza 028,Maharashtra,NH-58,142.5,4,2005,Rs. 77,Rs. 123,Rs. 246
+Plaza 029,Uttar Pradesh,NH-16,165.6,4,2016,Rs. 106,Rs. 169,Rs. 339
+Plaza 030,Madhya Pradesh,NH-58,86.3,4,2014,Rs. 83,Rs. 132,Rs. 265
+Plaza 031,Andhra Pradesh,NH-27,189.0,2,2024,Rs. 135,Rs. 216,Rs. 432
+Plaza 032,Kerala,NH-58,66.6,6,2015,Rs. 75,Rs. 120,Rs. 240
+Plaza 033,Gujarat,NH-16,179.8,6,2023,Rs. 83,Rs. 132,Rs. 265
+Plaza 034,Rajasthan,NH-48,,6,2009,Rs. 113,Rs. 180,Rs. 361
+Plaza 035,Rajasthan,NH-27,50.4,6,2013,Rs. 56,Rs. 89,Rs. 179
+Plaza 036,Uttar Pradesh,NH-48,161.3,4,2007,Rs. 83,Rs. 132,Rs. 265
+Plaza 037,Uttar Pradesh,NH-58,41.9,4,2016,Rs. 62,Rs. 99,Rs. 198
+Plaza 038,KARNATAKA ,NH-27,186.9,4,2008,Rs. 122,Rs. 195,Rs. 390
+Plaza 039,Uttar Pradesh,NH-44,39.4,4,2014,Rs. 62,Rs. 99,Rs. 198
+Plaza 040,Madhya Pradesh,NH-19,235.3,4,2011,Rs. 153,Rs. 244,Rs. 489
+Plaza 041,Rajasthan,NH-27,51.6,2,2008,Rs. 67,Rs. 107,Rs. 214
+Plaza 042,Haryana,NH-48,240.5,4,2006,Rs. 151,Rs. 241,Rs. 483
+Plaza 043,MADHYA PRADESH ,NH-52,204.2,4,2015,Rs. 89,Rs. 142,Rs. 284
+Plaza 044,Gujarat,NH-52,156.5,4,2023,Rs. 87,Rs. 139,Rs. 278
+Plaza 045,Haryana,NH-52,200.0,4,2008,Rs. 122,Rs. 195,Rs. 390
+Plaza 046,Haryana,NH-16,202.9,4,2013,Rs. 138,Rs. 220,Rs. 441
+Plaza 047,Rajasthan,NH-27,237.6,2,2009,Rs. 93,Rs. 148,Rs. 297
+Plaza 048,GUJARAT ,NH-19,78.3,6,2021,Rs. 73,Rs. 116,Rs. 233
+Plaza 049,Madhya Pradesh,NH-19,155.7,6,2013,Rs. 108,Rs. 172,Rs. 345
+Plaza 050,UTTAR PRADESH ,NH-44,41.9,2,2024,Rs. 54,Rs. 86,Rs. 172
+Plaza 051,Uttar Pradesh,NH-48,161.7,2,2009,Rs. 97,Rs. 155,Rs. 310
+Plaza 052,Maharashtra,NH-44,59.4,4,2006,Rs. 73,Rs. 116,Rs. 233
+Plaza 053,Andhra Pradesh,NH-19,9999.0,4,2016,Rs. 105,Rs. 168,Rs. 336
+Plaza 054,Madhya Pradesh,NH-44,151.7,6,2018,Rs. 86,Rs. 137,Rs. 275
+Plaza 055,Madhya Pradesh,NH-48,9999.0,2,2024,Rs. 103,Rs. 164,Rs. 329
+Plaza 056,Andhra Pradesh,NH-52,140.2,4,2022,Rs. 88,Rs. 140,Rs. 281
+Plaza 057,Rajasthan,NH-27,195.7,2,2022,Rs. 134,Rs. 214,Rs. 428
+Plaza 058,Tamil Nadu,NH-16,203.8,4,2017,Rs. 104,Rs. 166,Rs. 332
+Plaza 059,Uttar Pradesh,NH-19,,6,2012,Rs. 95,Rs. 152,NA
+Plaza 060,Maharashtra,NH-52,157.9,2,2013,Rs. 95,Rs. 152,Rs. 304
+Plaza 061,Madhya Pradesh,NH-52,234.2,2,2007,Rs. 111,Rs. 177,Rs. 355
+Plaza 062,Karnataka,NH-27,47.5,4,2013,Rs. 67,Rs. 107,Rs. 214
+Plaza 063,Tamil Nadu,NH-52,46.9,4,2012,Rs. 57,Rs. 91,Rs. 182
+Plaza 064,Andhra Pradesh,NH-27,40.2,6,2005,Rs. 54,Rs. 86,Rs. 172
+Plaza 065,Madhya Pradesh,NH-52,171.3,6,2009,Rs. 97,Rs. 155,Rs. 310
+Plaza 066,Tamil Nadu,NH-27,116.3,2,2015,Rs. 93,Rs. 148,Rs. 297
+Plaza 067,Tamil Nadu,NH-48,,2,2012,Rs. 133,Rs. 212,Rs. 425
+Plaza 068,Gujarat,NH-52,174.4,4,2024,Rs. 132,Rs. 211,Rs. 422
+Plaza 069,Maharashtra,NH-48,96.7,4,2014,Rs. 73,Rs. 116,Rs. 233
+Plaza 070,Rajasthan,NH-52,226.6,6,2024,Rs. 118,Rs. 188,Rs. 377
+Plaza 071,Uttar Pradesh,NH-48,195.4,4,2018,Rs. 92,Rs. 147,Rs. 294
+Plaza 072,Rajasthan,NH-44,82.2,2,2005,Rs. 76,Rs. 121,Rs. 243
+Plaza 073,Punjab,NH-16,103.8,6,2009,Rs. 97,Rs. 155,Rs. 310
+Plaza 074,UTTAR PRADESH ,NH-58,92.3,2,2019,Rs. 83,Rs. 132,Rs. 265
+Plaza 075,Maharashtra,NH-27,56.3,4,2015,Rs. 66,Rs. 105,Rs. 211
+Plaza 076,Gujarat,NH-48,54.0,4,2011,Rs. 62,Rs. 99,Rs. 198
+Plaza 077,Gujarat,NH-44,235.3,4,2015,Rs. 157,Rs. 251,Rs. 502
+Plaza 078,Madhya Pradesh,NH-58,120.7,4,2023,Rs. 87,Rs. 139,Rs. 278
+Plaza 079,Tamil Nadu,NH-52,108.2,4,2012,Rs. 71,Rs. 113,Rs. 227
+Plaza 080,Andhra Pradesh,NH-48,187.8,6,2005,Rs. 103,Rs. 164,Rs. 329
+Plaza 081,MADHYA PRADESH ,NH-27,147.2,6,2011,Rs. 77,Rs. 123,Rs. 246
+Plaza 082,Rajasthan,NH-44,235.3,4,2023,Rs. 106,Rs. 169,Rs. 339
+Plaza 083,Haryana,NH-44,199.5,2,2020,Rs. 86,Rs. 137,Rs. 275
+Plaza 084,Uttar Pradesh,NH-52,130.3,4,2021,Rs. 89,Rs. 142,NA
+Plaza 085,Maharashtra,NH-16,106.6,6,2023,Rs. 87,Rs. 139,Rs. 278
+Plaza 086,Maharashtra,NH-44,246.9,4,2007,Rs. 120,Rs. 192,Rs. 384
+Plaza 087,Andhra Pradesh,NH-16,185.1,4,2010,Rs. 105,Rs. 168,Rs. 336
+Plaza 088,Rajasthan,NH-27,238.8,4,2006,Rs. 161,Rs. 257,NA
+Plaza 089,Uttar Pradesh,NH-48,47.3,2,2005,Rs. 65,Rs. 104,Rs. 208
+Plaza 090,Karnataka,NH-19,215.6,4,2021,Rs. 123,Rs. 196,Rs. 393
+Plaza 091,UTTAR PRADESH ,NH-44,166.5,4,2023,Rs. 93,Rs. 148,Rs. 297
+Plaza 092,Madhya Pradesh,NH-44,48.0,4,2008,Rs. 68,Rs. 108,Rs. 217
+Plaza 093,Rajasthan,NH-58,155.3,6,2019,Rs. 87,Rs. 139,Rs. 278
+Plaza 094,Rajasthan,NH-16,177.8,6,2015,Rs. 98,Rs. 156,Rs. 313
+Plaza 095,Gujarat,NH-48,22.8,4,2006,Rs. 56,Rs. 89,Rs. 179
+Plaza 096,Madhya Pradesh,NH-52,124.5,4,2023,Rs. 90,Rs. 144,Rs. 288
+Plaza 097,Rajasthan,NH-16,209.8,4,2022,Rs. 134,Rs. 214,Rs. 428
+Plaza 098,Maharashtra,NH-58,87.9,6,2016,Rs. 78,Rs. 124,Rs. 249
+Plaza 099,Maharashtra,NH-52,125.5,4,2019,Rs. 95,Rs. 152,NA
+Plaza 100,Kerala,NH-27,121.7,6,2012,Rs. 80,Rs. 128,Rs. 256
+Plaza 101,West Bengal,NH-19,89.4,2,2020,Rs. 69,Rs. 110,Rs. 220
+Plaza 102,Madhya Pradesh,NH-19,231.2,6,2013,Rs. 114,Rs. 182,Rs. 364
+Plaza 103,GUJARAT ,NH-52,199.7,2,2024,Rs. 94,Rs. 150,Rs. 300
+Plaza 104,Kerala,NH-44,45.4,2,2006,Rs. 66,Rs. 105,Rs. 211
+Plaza 105,Andhra Pradesh,NH-27,249.3,4,2008,Rs. 116,Rs. 185,Rs. 371
+Plaza 106,Madhya Pradesh,NH-44,222.2,2,2024,Rs. 127,Rs. 203,Rs. 406
+Plaza 107,Rajasthan,NH-27,85.3,2,2010,Rs. 82,Rs. 131,Rs. 262
+Plaza 108,Gujarat,NH-44,212.5,2,2011,Rs. 137,Rs. 219,Rs. 438
+Plaza 109,Maharashtra,NH-48,44.5,4,2020,Rs. 60,Rs. 96,Rs. 192
+Plaza 110,West Bengal,NH-58,,4,2008,,Rs. 209,Rs. 419
+Plaza 111,Rajasthan,NH-48,173.1,2,2015,,Rs. 209,Rs. 419
+Plaza 112,Uttar Pradesh,NH-58,169.5,4,2010,Rs. 113,Rs. 180,Rs. 361
+Plaza 113,Gujarat,NH-48,40.8,6,2008,Rs. 63,Rs. 100,Rs. 201
+Plaza 114,TAMIL NADU ,NH-52,226.3,2,2024,Rs. 152,Rs. 243,Rs. 486
+Plaza 115,Uttar Pradesh,NH-27,26.7,2,2008,Rs. 57,Rs. 91,Rs. 182
+Plaza 116,Punjab,NH-19,75.4,6,2006,Rs. 64,Rs. 102,Rs. 204
+Plaza 117,Andhra Pradesh,NH-44,52.9,6,2018,Rs. 65,Rs. 104,Rs. 208
+Plaza 118,Madhya Pradesh,NH-19,198.7,4,2022,Rs. 91,Rs. 145,NA
+Plaza 119,Rajasthan,NH-19,65.6,6,2007,Rs. 71,Rs. 113,Rs. 227
+Plaza 120,Tamil Nadu,NH-19,229.4,2,2019,Rs. 157,Rs. 251,Rs. 502
+Plaza 121,Tamil Nadu,NH-27,170.9,4,2015,Rs. 105,Rs. 168,Rs. 336
+Plaza 122,Madhya Pradesh,NH-19,28.3,4,2021,Rs. 54,Rs. 86,Rs. 172
+Plaza 123,Maharashtra,NH-52,21.2,4,2007,Rs. 49,Rs. 78,Rs. 156
+Plaza 124,Rajasthan,NH-19,31.9,4,2024,Rs. 61,Rs. 97,Rs. 195
+Plaza 125,Maharashtra,NH-27,159.4,4,2017,Rs. 82,Rs. 131,Rs. 262
+Plaza 126,Karnataka,NH-48,204.3,4,2021,,Rs. 140,Rs. 281
+Plaza 127,Gujarat,NH-27,74.9,4,2012,Rs. 66,Rs. 105,Rs. 211
+Plaza 128,Uttar Pradesh,NH-48,215.4,4,2023,Rs. 92,Rs. 147,Rs. 294
+Plaza 129,Maharashtra,NH-44,33.2,2,2017,Rs. 56,Rs. 89,Rs. 179
+Plaza 130,Tamil Nadu,NH-58,204.2,2,2007,Rs. 117,Rs. 187,Rs. 374
+Plaza 131,Uttar Pradesh,NH-48,233.4,4,2023,Rs. 114,Rs. 182,Rs. 364
+Plaza 132,Odisha,NH-19,197.6,2,2020,Rs. 88,Rs. 140,Rs. 281
+Plaza 133,Tamil Nadu,NH-52,180.6,2,2011,Rs. 87,Rs. 139,Rs. 278
+Plaza 134,Gujarat,NH-58,212.7,2,2015,Rs. 112,Rs. 179,Rs. 358
+Plaza 135,Tamil Nadu,NH-44,29.2,2,2012,Rs. 51,Rs. 81,Rs. 163
+Plaza 136,Maharashtra,NH-44,66.4,6,2015,Rs. 72,Rs. 115,Rs. 230
+Plaza 137,Kerala,NH-27,48.7,4,2024,Rs. 58,Rs. 92,Rs. 185
+Plaza 138,Karnataka,NH-19,136.0,6,2022,Rs. 85,Rs. 136,Rs. 272
+Plaza 139,ANDHRA PRADESH ,NH-58,191.4,2,2009,Rs. 106,Rs. 169,Rs. 339
+Plaza 140,Maharashtra,NH-44,164.9,4,2024,Rs. 99,Rs. 158,Rs. 316
+Plaza 141,Karnataka,NH-44,215.8,4,2013,Rs. 88,Rs. 140,Rs. 281
+Plaza 142,Karnataka,NH-44,55.7,4,2019,Rs. 58,Rs. 92,Rs. 185
+Plaza 143,Odisha,NH-58,189.0,6,2020,Rs. 132,Rs. 211,Rs. 422
+Plaza 144,Tamil Nadu,NH-48,64.4,6,2014,Rs. 58,Rs. 92,Rs. 185
+Plaza 145,Karnataka,NH-27,82.3,6,2014,Rs. 74,Rs. 118,Rs. 236
+Plaza 146,Gujarat,NH-48,183.3,2,2014,Rs. 109,Rs. 174,Rs. 348
+Plaza 147,Gujarat,NH-44,245.4,2,2022,Rs. 119,Rs. 190,Rs. 380
+Plaza 148,Karnataka,NH-58,160.7,4,2012,Rs. 98,Rs. 156,Rs. 313
+Plaza 149,Rajasthan,NH-48,32.5,4,2010,Rs. 59,Rs. 94,Rs. 188
+Plaza 150,Maharashtra,NH-27,161.8,4,2012,Rs. 118,Rs. 188,Rs. 377
+Plaza 151,Haryana,NH-58,29.7,4,2008,Rs. 53,Rs. 84,Rs. 169
+Plaza 152,West Bengal,NH-16,223.4,4,2012,,Rs. 177,Rs. 355
+Plaza 153,Uttar Pradesh,NH-48,183.2,6,2007,Rs. 95,Rs. 152,Rs. 304
+Plaza 154,Tamil Nadu,NH-19,59.8,4,2006,Rs. 66,Rs. 105,Rs. 211
+Plaza 155,Maharashtra,NH-58,41.1,2,2019,Rs. 62,Rs. 99,Rs. 198
+Plaza 156,Madhya Pradesh,NH-27,62.2,2,2006,Rs. 62,Rs. 99,Rs. 198
+Plaza 157,Gujarat,NH-19,245.4,4,2016,Rs. 118,Rs. 188,Rs. 377
+Plaza 158,Madhya Pradesh,NH-19,125.5,4,2020,Rs. 105,Rs. 168,Rs. 336
+Plaza 159,Andhra Pradesh,NH-16,200.3,4,2019,Rs. 88,Rs. 140,Rs. 281
+Plaza 160,Andhra Pradesh,NH-44,166.4,4,2013,Rs. 101,Rs. 161,Rs. 323
+Plaza 161,Maharashtra,NH-52,151.7,4,2008,Rs. 108,Rs. 172,Rs. 345
+Plaza 162,West Bengal,NH-58,53.4,6,2023,Rs. 58,Rs. 92,Rs. 185
+Plaza 163,Uttar Pradesh,NH-48,237.6,4,2021,Rs. 96,Rs. 153,Rs. 307
+Plaza 164,Maharashtra,NH-52,89.3,4,2017,Rs. 67,Rs. 107,Rs. 214
+Plaza 165,TAMIL NADU ,NH-52,152.9,4,2006,Rs. 118,Rs. 188,Rs. 377
+Plaza 166,Rajasthan,NH-52,180.9,4,2005,Rs. 82,Rs. 131,Rs. 262
+Plaza 167,Haryana,NH-27,169.3,4,2011,Rs. 88,Rs. 140,Rs. 281
+Plaza 168,Haryana,NH-19,236.3,4,2008,Rs. 94,Rs. 150,Rs. 300
+Plaza 169,Gujarat,NH-52,54.1,4,2022,Rs. 58,Rs. 92,Rs. 185
+Plaza 170,Kerala,NH-44,136.9,2,2009,Rs. 98,Rs. 156,Rs. 313
+Plaza 171,Gujarat,NH-52,112.9,2,2010,Rs. 76,Rs. 121,Rs. 243
+Plaza 172,Karnataka,NH-58,129.1,2,2024,Rs. 93,Rs. 148,Rs. 297
+Plaza 173,Uttar Pradesh,NH-16,47.4,6,2021,Rs. 63,Rs. 100,Rs. 201
+Plaza 174,Odisha,NH-27,50.8,4,2009,Rs. 68,Rs. 108,Rs. 217
+Plaza 175,Uttar Pradesh,NH-19,84.0,2,2012,Rs. 62,Rs. 99,Rs. 198
+Plaza 176,Maharashtra,NH-48,90.1,6,2015,Rs. 86,Rs. 137,Rs. 275
+Plaza 177,Rajasthan,NH-58,118.4,4,2018,,Rs. 145,Rs. 291
+Plaza 178,Bihar,NH-27,160.5,4,2023,Rs. 85,Rs. 136,Rs. 272
+Plaza 179,West Bengal,NH-48,166.0,6,2022,Rs. 117,Rs. 187,Rs. 374
+Plaza 180,Andhra Pradesh,NH-52,114.7,2,2024,Rs. 97,Rs. 155,Rs. 310
+Plaza 181,West Bengal,NH-16,114.0,2,2005,Rs. 76,Rs. 121,Rs. 243
+Plaza 182,West Bengal,NH-16,70.1,4,2009,Rs. 78,Rs. 124,Rs. 249
+Plaza 183,Karnataka,NH-48,155.3,2,2016,Rs. 97,Rs. 155,Rs. 310
+Plaza 184,Gujarat,NH-52,92.9,4,2005,Rs. 80,Rs. 128,Rs. 256
+Plaza 185,Andhra Pradesh,NH-16,,2,2012,Rs. 59,Rs. 94,Rs. 188
+Plaza 186,Madhya Pradesh,NH-52,116.2,2,2008,Rs. 81,Rs. 129,Rs. 259
+Plaza 187,Rajasthan,NH-52,129.1,2,2023,,Rs. 163,Rs. 326
+Plaza 188,Maharashtra,NH-44,71.9,4,2006,Rs. 66,Rs. 105,Rs. 211
+Plaza 189,Andhra Pradesh,NH-44,151.7,2,2007,Rs. 112,Rs. 179,Rs. 358
+Plaza 190,Gujarat,NH-58,150.1,2,2008,Rs. 102,Rs. 163,Rs. 326
+Plaza 191,Odisha,NH-19,181.5,6,2007,Rs. 93,Rs. 148,Rs. 297
+Plaza 192,Uttar Pradesh,NH-19,169.0,4,2016,Rs. 100,Rs. 160,Rs. 320
+Plaza 193,Uttar Pradesh,NH-27,170.1,4,2012,Rs. 95,Rs. 152,Rs. 304
+Plaza 194,Haryana,NH-16,92.7,2,2023,Rs. 66,Rs. 105,Rs. 211
+Plaza 195,Uttar Pradesh,NH-52,201.1,4,2010,,Rs. 139,Rs. 278
+Plaza 196,Uttar Pradesh,NH-48,146.3,4,2015,Rs. 89,Rs. 142,Rs. 284
+Plaza 197,Tamil Nadu,NH-19,119.2,4,2018,Rs. 70,Rs. 112,Rs. 224
+Plaza 198,Punjab,NH-58,164.0,2,2017,Rs. 86,Rs. 137,Rs. 275
+Plaza 199,Uttar Pradesh,NH-44,103.0,6,2020,Rs. 88,Rs. 140,Rs. 281
+Plaza 200,Gujarat,NH-44,137.9,6,2009,Rs. 102,Rs. 163,Rs. 326
+Plaza 201,ANDHRA PRADESH ,NH-58,189.4,2,2015,Rs. 125,Rs. 200,Rs. 400
+Plaza 202,Bihar,NH-48,223.9,2,2021,Rs. 111,Rs. 177,Rs. 355
+Plaza 203,Karnataka,NH-27,231.8,2,2022,Rs. 153,Rs. 244,Rs. 489
+Plaza 204,Uttar Pradesh,NH-19,135.8,4,2017,Rs. 96,Rs. 153,Rs. 307
+Plaza 205,Maharashtra,NH-52,139.7,2,2018,Rs. 78,Rs. 124,Rs. 249
+Plaza 206,Uttar Pradesh,NH-48,204.0,6,2022,Rs. 95,Rs. 152,Rs. 304
+Plaza 207,Uttar Pradesh,NH-19,92.3,4,2017,,Rs. 132,Rs. 265
+Plaza 208,Madhya Pradesh,NH-44,212.6,6,2023,Rs. 99,Rs. 158,Rs. 316
+Plaza 209,Uttar Pradesh,NH-52,133.7,4,2007,Rs. 92,Rs. 147,Rs. 294
+Plaza 210,Karnataka,NH-16,46.6,6,2011,Rs. 68,Rs. 108,Rs. 217
+Plaza 211,MADHYA PRADESH ,NH-19,36.6,2,2007,Rs. 52,Rs. 83,Rs. 166
+Plaza 212,Tamil Nadu,NH-27,213.7,4,2006,Rs. 89,Rs. 142,Rs. 284
+Plaza 213,Uttar Pradesh,NH-44,32.8,4,2014,Rs. 61,Rs. 97,Rs. 195
+Plaza 214,HARYANA ,NH-58,84.5,6,2009,Rs. 77,Rs. 123,Rs. 246
+Plaza 215,MADHYA PRADESH ,NH-16,96.8,4,2013,Rs. 68,Rs. 108,Rs. 217
+Plaza 216,Andhra Pradesh,NH-27,59.8,6,2013,Rs. 73,Rs. 116,Rs. 233
+Plaza 217,Uttar Pradesh,NH-27,92.2,2,2017,Rs. 88,Rs. 140,Rs. 281
+Plaza 218,Uttar Pradesh,NH-52,190.8,6,2023,Rs. 114,Rs. 182,Rs. 364
+Plaza 219,Odisha,NH-52,23.4,4,2021,Rs. 54,Rs. 86,Rs. 172
+Plaza 220,Rajasthan,NH-19,,4,2012,Rs. 104,Rs. 166,Rs. 332
+Plaza 221,Gujarat,NH-27,217.0,6,2011,Rs. 92,Rs. 147,Rs. 294
+Plaza 222,Karnataka,NH-16,,4,2020,Rs. 85,Rs. 136,Rs. 272
+Plaza 223,Madhya Pradesh,NH-16,55.3,4,2007,Rs. 61,Rs. 97,Rs. 195
+Plaza 224,Kerala,NH-16,158.2,4,2015,Rs. 108,Rs. 172,Rs. 345
+Plaza 225,Gujarat,NH-48,47.5,2,2013,,Rs. 105,Rs. 211
+Plaza 226,Odisha,NH-19,103.9,4,2008,Rs. 66,Rs. 105,Rs. 211
+Plaza 227,MAHARASHTRA ,NH-16,240.4,2,2017,Rs. 136,Rs. 217,Rs. 435
+Plaza 228,Tamil Nadu,NH-58,249.0,2,2011,Rs. 112,Rs. 179,Rs. 358
+Plaza 229,Madhya Pradesh,NH-19,197.6,6,2008,Rs. 136,Rs. 217,Rs. 435
+Plaza 230,Maharashtra,NH-27,91.5,4,2018,Rs. 70,Rs. 112,Rs. 224
+Plaza 231,Uttar Pradesh,NH-19,178.2,4,2008,Rs. 113,Rs. 180,Rs. 361
+Plaza 232,Rajasthan,NH-44,182.2,4,2018,Rs. 112,Rs. 179,Rs. 358
+Plaza 233,KERALA ,NH-48,109.2,4,2008,Rs. 80,Rs. 128,Rs. 256
+Plaza 234,Tamil Nadu,NH-16,167.4,4,2013,Rs. 113,Rs. 180,Rs. 361
+Plaza 235,Odisha,NH-58,22.5,6,2021,Rs. 54,Rs. 86,Rs. 172
+Plaza 236,Haryana,NH-52,68.1,6,2009,Rs. 70,Rs. 112,Rs. 224
+Plaza 237,Rajasthan,NH-16,140.8,4,2020,Rs. 105,Rs. 168,Rs. 336
+Plaza 238,ANDHRA PRADESH ,NH-48,57.7,4,2019,Rs. 74,Rs. 118,Rs. 236
+Plaza 239,Maharashtra,NH-58,58.2,4,2023,Rs. 64,Rs. 102,Rs. 204
+Plaza 240,Maharashtra,NH-19,212.3,4,2008,Rs. 120,Rs. 192,Rs. 384
+Plaza 241,Haryana,NH-27,247.5,4,2019,Rs. 95,Rs. 152,Rs. 304
+Plaza 242,Haryana,NH-58,147.9,4,2023,Rs. 110,Rs. 176,Rs. 352
+Plaza 243,Uttar Pradesh,NH-52,213.0,4,2020,,Rs. 193,Rs. 387
+Plaza 244,Karnataka,NH-52,247.8,4,2008,Rs. 125,Rs. 200,Rs. 400
+Plaza 245,Tamil Nadu,NH-44,52.6,4,2021,Rs. 57,Rs. 91,Rs. 182
+Plaza 246,Punjab,NH-58,123.1,4,2007,Rs. 102,Rs. 163,Rs. 326
+Plaza 247,Tamil Nadu,NH-19,110.3,2,2016,Rs. 80,Rs. 128,Rs. 256
+Plaza 248,Rajasthan,NH-19,38.4,2,2014,Rs. 61,Rs. 97,Rs. 195
+Plaza 249,RAJASTHAN ,NH-52,193.7,4,2015,Rs. 92,Rs. 147,Rs. 294
+Plaza 250,Rajasthan,NH-16,119.8,4,2015,Rs. 104,Rs. 166,Rs. 332
+Plaza 251,Madhya Pradesh,NH-44,127.9,2,2005,Rs. 77,Rs. 123,Rs. 246
+Plaza 252,Punjab,NH-27,54.7,4,2015,Rs. 59,Rs. 94,Rs. 188
+Plaza 253,Rajasthan,NH-27,61.6,4,2023,Rs. 73,Rs. 116,Rs. 233
+Plaza 254,Uttar Pradesh,NH-58,228.6,4,2013,Rs. 153,Rs. 244,Rs. 489
+Plaza 255,Uttar Pradesh,NH-52,30.3,6,2010,Rs. 53,Rs. 84,Rs. 169
+Plaza 256,Andhra Pradesh,NH-27,73.6,6,2024,Rs. 70,Rs. 112,Rs. 224
+Plaza 257,Haryana,NH-52,87.2,4,2006,Rs. 82,Rs. 131,Rs. 262
+Plaza 258,Maharashtra,NH-52,132.7,4,2014,Rs. 107,Rs. 171,Rs. 342
+Plaza 259,Maharashtra,NH-27,154.9,2,2015,Rs. 94,Rs. 150,Rs. 300
+Plaza 260,Tamil Nadu,NH-27,133.5,6,2014,Rs. 92,Rs. 147,Rs. 294
+Plaza 261,Uttar Pradesh,NH-58,39.3,4,2023,Rs. 62,Rs. 99,Rs. 198
+Plaza 262,Haryana,NH-19,76.0,6,2013,Rs. 77,Rs. 123,Rs. 246
+Plaza 263,Gujarat,NH-44,214.0,4,2024,Rs. 138,Rs. 220,Rs. 441
+Plaza 264,Uttar Pradesh,NH-52,166.6,2,2006,Rs. 107,Rs. 171,Rs. 342
+Plaza 265,Odisha,NH-16,169.3,2,2019,Rs. 84,Rs. 134,Rs. 268
+Plaza 266,Uttar Pradesh,NH-19,174.1,4,2016,Rs. 127,Rs. 203,Rs. 406
+Plaza 267,Gujarat,NH-52,195.5,4,2009,Rs. 135,Rs. 216,Rs. 432
+Plaza 268,Uttar Pradesh,NH-58,,2,2009,Rs. 60,Rs. 96,Rs. 192
+Plaza 269,Maharashtra,NH-27,104.3,4,2019,Rs. 69,Rs. 110,Rs. 220
+Plaza 270,Maharashtra,NH-27,144.1,6,2017,Rs. 83,Rs. 132,Rs. 265
+Plaza 271,Maharashtra,NH-44,97.8,4,2017,,Rs. 137,Rs. 275
+Plaza 272,Uttar Pradesh,NH-16,214.2,4,2006,Rs. 89,Rs. 142,Rs. 284
+Plaza 273,Maharashtra,NH-27,131.0,2,2016,Rs. 110,Rs. 176,Rs. 352
+Plaza 274,Tamil Nadu,NH-27,196.8,4,2024,Rs. 107,Rs. 171,Rs. 342
+Plaza 275,Madhya Pradesh,NH-16,216.0,4,2005,Rs. 135,Rs. 216,Rs. 432
+Plaza 276,Rajasthan,NH-27,136.1,6,2014,Rs. 108,Rs. 172,Rs. 345
+Plaza 277,Gujarat,NH-19,229.2,4,2014,Rs. 118,Rs. 188,Rs. 377
+Plaza 278,Karnataka,NH-19,155.0,4,2022,Rs. 91,Rs. 145,Rs. 291
+Plaza 279,Punjab,NH-44,215.6,4,2010,Rs. 127,Rs. 203,Rs. 406
+Plaza 280,Punjab,NH-48,98.3,2,2014,Rs. 82,Rs. 131,Rs. 262
+Plaza 281,Maharashtra,NH-52,134.7,4,2019,,Rs. 140,Rs. 281
+Plaza 282,Uttar Pradesh,NH-48,142.2,4,2006,Rs. 99,Rs. 158,Rs. 316
+Plaza 283,Uttar Pradesh,NH-27,44.1,4,2021,Rs. 66,Rs. 105,Rs. 211
+Plaza 284,Uttar Pradesh,NH-16,111.7,6,2021,Rs. 83,Rs. 132,Rs. 265
+Plaza 285,Tamil Nadu,NH-48,231.0,6,2019,Rs. 105,Rs. 168,Rs. 336
+Plaza 286,Rajasthan,NH-16,165.1,6,2017,Rs. 97,Rs. 155,Rs. 310
+Plaza 287,Maharashtra,NH-52,60.8,2,2019,Rs. 64,Rs. 102,Rs. 204
+Plaza 288,Rajasthan,NH-16,97.9,4,2020,Rs. 68,Rs. 108,Rs. 217
+Plaza 289,Karnataka,NH-27,64.1,6,2023,Rs. 61,Rs. 97,Rs. 195
+Plaza 290,Maharashtra,NH-48,25.7,4,2013,Rs. 55,Rs. 88,Rs. 176
+Plaza 291,Haryana,NH-58,233.3,2,2014,Rs. 115,Rs. 184,Rs. 368
+Plaza 292,Maharashtra,NH-27,123.1,6,2017,Rs. 105,Rs. 168,Rs. 336
+Plaza 293,Odisha,NH-52,90.7,4,2008,Rs. 70,Rs. 112,Rs. 224
+Plaza 294,Maharashtra,NH-44,157.6,4,2022,Rs. 81,Rs. 129,Rs. 259
+Plaza 295,Punjab,NH-44,21.7,6,2020,Rs. 54,Rs. 86,Rs. 172
+Plaza 296,WEST BENGAL ,NH-52,83.9,4,2017,Rs. 84,Rs. 134,Rs. 268
+Plaza 297,Bihar,NH-58,181.7,4,2011,Rs. 96,Rs. 153,Rs. 307
+Plaza 298,Haryana,NH-58,165.8,4,2011,Rs. 88,Rs. 140,Rs. 281
+Plaza 299,Andhra Pradesh,NH-52,245.8,4,2013,Rs. 108,Rs. 172,Rs. 345
+Plaza 300,Madhya Pradesh,NH-44,162.7,2,2018,Rs. 103,Rs. 164,Rs. 329
+Plaza 190,Gujarat,NH-58,150.1,2,2008,Rs. 102,Rs. 163,Rs. 326
+Plaza 124,Rajasthan,NH-19,31.9,4,2024,Rs. 61,Rs. 97,Rs. 195
+Plaza 186,Madhya Pradesh,NH-52,116.2,2,2008,Rs. 81,Rs. 129,Rs. 259
+Plaza 214,HARYANA ,NH-58,84.5,6,2009,Rs. 77,Rs. 123,Rs. 246
+Plaza 107,Rajasthan,NH-27,85.3,2,2010,Rs. 82,Rs. 131,Rs. 262
+Plaza 128,Uttar Pradesh,NH-48,215.4,4,2023,Rs. 92,Rs. 147,Rs. 294

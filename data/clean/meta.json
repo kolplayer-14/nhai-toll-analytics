@@ -1,0 +1,16 @@
+{
+  "rows_raw": 306,
+  "duplicates_removed": 6,
+  "outliers_fixed": 2,
+  "missing_before": 27,
+  "missing_after": 0,
+  "rows_clean": 300,
+  "source": "sample",
+  "charts": [
+    "avg_car_fee_by_state.png",
+    "fee_by_vehicle.png",
+    "fee_vs_length.png",
+    "plazas_by_year.png",
+    "plazas_per_state.png"
+  ]
+}
